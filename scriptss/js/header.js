@@ -41,7 +41,7 @@ ReactDOM.render(
         }),
         React.createElement(header, {
             name: 'Admins',
-            url: './adms.html'
+            url: './adms'
         }),
         React.createElement(header, {
             name: 'Top',
