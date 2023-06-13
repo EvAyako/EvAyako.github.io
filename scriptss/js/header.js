@@ -45,7 +45,7 @@ ReactDOM.render(
         }),
         React.createElement(header, {
             name: 'Top',
-            url: './leaders.php'
+            url: 'https://xgdps00.ps.fhgdps.com/main/leaders.php'
         }),
     )))),
     document.getElementById('header')
