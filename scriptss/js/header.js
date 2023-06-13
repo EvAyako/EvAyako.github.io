@@ -37,7 +37,7 @@ ReactDOM.render(
     }, 
         React.createElement(header, {
             name: 'Home',
-            url: './index.html'
+            url: './index'
         }),
         React.createElement(header, {
             name: 'Admins',
@@ -45,7 +45,7 @@ ReactDOM.render(
         }),
         React.createElement(header, {
             name: 'Top',
-            url: 'https://xgdps00.ps.fhgdps.com/main/leaders.php'
+            url: './leaders'
         }),
     )))),
     document.getElementById('header')
