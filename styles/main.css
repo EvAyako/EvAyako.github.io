@@ -392,6 +392,15 @@ footer {
     background-color: #dbdbdb;
 }
 
+.icon-img-top {
+    width: 50px;
+    height: 50px;
+}
+
+.icon-img-top img {
+    padding-right: 10px;
+}
+
 @media(max-width: 767px) {
     .hamburger {
         display: block;
