@@ -46,6 +46,10 @@ ReactDOM.render(
         React.createElement(header, {
             name: 'Top',
             url: 'https://xgdps00.ps.fhgdps.com/main/leaders.php'
+        }),        
+        React.createElement(header, {
+            name: 'Tools',
+            url: 'https://xgdps00.ps.fhgdps.com/tools/'
         }),
     )))),
     document.getElementById('header')
